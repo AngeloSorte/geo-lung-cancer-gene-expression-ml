@@ -69,8 +69,8 @@ Run the notebook in Google Colab or Jupyter.
 
 ---
 
-**## 📚 Future Improvements
-**
+## 📚 Future Improvements
+
 Differential gene expression analysis (DESeq-like methods)
 Supervised classification (Random Forest / XGBoost)
 Gene pathway enrichment analysis (KEGG / GO)
@@ -78,6 +78,6 @@ Deep learning autoencoders for gene embeddings
 
 ---
 
-**## 👤 Author
-**
+## 👤 Author
+
 Angelo Sorte
