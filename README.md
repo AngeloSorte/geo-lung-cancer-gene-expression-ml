@@ -62,7 +62,7 @@ This project analyzes real gene expression data from the **NCBI GEO database (GS
 
 ## 📌 How to Run
 
-```bash
+[bash]
 pip install -r requirements.txt
 
 Run the notebook in Google Colab or Jupyter.
